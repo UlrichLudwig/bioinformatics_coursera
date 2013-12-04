@@ -1,0 +1,18 @@
+Sample Input:
+     ATG
+     ATG
+     TGT
+     TGG
+     CAT
+     GGA
+     GAT
+     AGA
+
+Sample Output:
+     AGA
+     ATG
+     ATG
+     CAT
+     GAT
+     TGGA
+     TGT
